@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SmartShodhai Bangladesh",
+  "description": "A smart supply chain and distribution management platform tailored for Bangladeshi SMEs, featuring AI-powered inventory analysis, image-based stock entry, and real-time voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
